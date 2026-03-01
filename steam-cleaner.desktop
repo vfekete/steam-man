@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=SteamCleaner
+Comment=Cleans StemLibrary
+Exec=steam-man/run.sh
+Icon=steam-man/icons/steam-cleaner-icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
