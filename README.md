@@ -6,7 +6,9 @@
 
 ## Description
 
-Desktop app to scan Steam libraries on Linux and remove broken/unwanted installs directly from disk.
+Small Python utility for cleaning up and managing Steam library folders on Ubuntu.
+
+Steam sometimes leaves files or folders behind after removing a game. This tool was created as a small practical helper to inspect a Steam library and clean up leftovers more comfortably.
 
 ## Requirements
 
