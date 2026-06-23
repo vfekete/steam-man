@@ -1,6 +1,6 @@
 # Steam Library Cleaner (`steam-man`)
 
-## Wow section
+## Screenshots
 
 ![Steam Cleaner, dark mode](docs/dark.png) ![Steam Cleaner, light mode](docs/light.png)
 
@@ -90,3 +90,4 @@ Safety controls:
 - Permissions and file locks can prevent complete cleanup; failed entries remain for retry.
 
 AI Generated using: gpt-5.3-codex (2026-02-28 23:53:31 UTC)
+Manualy changed later.
