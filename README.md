@@ -1,14 +1,14 @@
 # Steam Library Cleaner (`steam-man`)
 
-## Screenshots
-
-![Steam Cleaner, dark mode](docs/dark.png) ![Steam Cleaner, light mode](docs/light.png)
-
 ## Description
 
 Small Python utility for cleaning up and managing Steam library folders on Ubuntu.
 
 Steam sometimes leaves files or folders behind after removing a game. This tool was created as a small practical helper to inspect a Steam library and clean up leftovers more comfortably.
+
+## Screenshots
+
+![Steam Cleaner, dark mode](docs/dark.png) ![Steam Cleaner, light mode](docs/light.png)
 
 ## Requirements
 
@@ -88,6 +88,3 @@ Safety controls:
 - The app uses filesystem operations only; Steam API is not required.
 - Deletion is best-effort and reports per-path failures.
 - Permissions and file locks can prevent complete cleanup; failed entries remain for retry.
-
-AI Generated using: gpt-5.3-codex (2026-02-28 23:53:31 UTC)
-Manualy changed later.
